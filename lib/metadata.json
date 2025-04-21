@@ -1,0 +1,1470 @@
+{
+  "vaultName": "Codex 0",
+  "lastExport": 1745213791052,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Symbolic/Drift/Logs.md",
+    "The Is/activate.md",
+    "The Is/Afro-Diasporic Cosmos.md",
+    "The Is/AI Sovereign Logic Trees.md",
+    "The Is/AI-Machine-Sigil Interface Notes.md",
+    "The Is/Ancient Levantine Vortex.md",
+    "The Is/Biochemical Sovereignty Map.md",
+    "The Is/Brazilian Cauldron.md",
+    "The Is/carriers of the Pattern.md",
+    "The Is/Cathedral-Exosphere-Crypt Map.md",
+    "The Is/Chemical → Behavioral → Ritual Correlation Chart.md",
+    "The Is/Chemical to Ritual Chart.md",
+    "The Is/Civilizational Braid Profiles.md",
+    "The Is/Codex Contribution Notes.md",
+    "The Is/Codex Diaries and Channel Logs.md",
+    "The Is/Codex Structure Overview.md",
+    "The Is/Codex Style Guide.md",
+    "The Is/Comparative Semiotic Grid (WIP).md",
+    "The Is/compass.md",
+    "The Is/Condition to Ritual Crosswalk.md",
+    "The Is/Condition-to-Ritual Crosswalk.md",
+    "The Is/Crypto-Court Empire.md",
+    "The Is/Dark Academia Cells.md",
+    "The Is/Diaspora Memory Logic.md",
+    "The Is/Dream Nodes.md",
+    "The Is/Dreamwork Nodes.md",
+    "The Is/Eco-Mythic Decentralized Guild Empires.md",
+    "The Is/Empire Models and Archetypes.md",
+    "The Is/Environmental-Civilizational Biochemistry.md",
+    "The Is/Esoteric-Christian Rewilding Threads (Desert Monks to DIY Ritualists).md",
+    "The Is/Field Deployment Guidelines.md",
+    "The Is/First Glyph Mandala.md",
+    "The Is/First Glyph Mandala - Ritual Sigil of Genesis.md",
+    "The Is/fractal.md",
+    "The Is/Geopolitical echo-structures.md",
+    "The Is/Ghost Empires & Civilizational Spirits.md",
+    "The Is/Ghost Empires and Civilizational Spirits.md",
+    "The Is/Global Memory Lattice.md",
+    "The Is/Glyph Scrolls.md",
+    "The Is/Glyph Scrolls (Encrypted or Poetic Forms).md",
+    "The Is/Glyph Systems (Runes, Veve, Sanskrit, Tifinagh, etc).md",
+    "The Is/Index - 0.md",
+    "The Is/Indigenous Time-Spiral Cosmogonies (Americas).md",
+    "The Is/Initiatory Sequences and Threshold States.md",
+    "The Is/Jewish Cosmos.md",
+    "The Is/Linkage Protocols and Symbol Syntax.md",
+    "The Is/Living Codex.md",
+    "The Is/Living Sigil Field (Active Symbol Map).md",
+    "The Is/map.md",
+    "The Is/Map of Engagement Zones.md",
+    "The Is/Memetic Fracture Zones.md",
+    "The Is/Memetic Fracture Zones (2025 Edition).md",
+    "The Is/Myth as Weapon.md",
+    "The Is/Myth as Weapon and Salvation.md",
+    "The Is/myth-engine.md",
+    "The Is/Mythic - Memetic Engine.md",
+    "The Is/Mythic Agriculture Engine.md",
+    "The Is/Mythic cosmogonies.md",
+    "The Is/Neurochemical Archetypes.md",
+    "The Is/New Archetypes or Braid Entries.md",
+    "The Is/node.md",
+    "The Is/Nomadic Mindstreams of the Steppe.md",
+    "The Is/Nomads Drifters and Chaos Agents.md",
+    "The Is/Organ I - The Heart.md",
+    "The Is/Organ I - The Heart (Ritual Pulse).md",
+    "The Is/Organ II - The Lungs.md",
+    "The Is/Organ II - The Lungs (Language & Song).md",
+    "The Is/Organ III - The Brain.md",
+    "The Is/Organ III - The Brain (Strategic Sight).md",
+    "The Is/Organ IV - The Liver.md",
+    "The Is/Organ IV - The Liver (Alchemy of Suffering).md",
+    "The Is/Organ IX - The Tongue.md",
+    "The Is/Organ IX - The Tongue (Trickster Checks).md",
+    "The Is/Organ V - The Stomach.md",
+    "The Is/Organ V - The Stomach (Memory as Food).md",
+    "The Is/Organ VI - The Spine.md",
+    "The Is/Organ VI - The Spine (Rites of Action).md",
+    "The Is/Organ VII - The Skin.md",
+    "The Is/Organ VII - The Skin (Symbolic Shield).md",
+    "The Is/Organ VIII - The Womb.md",
+    "The Is/Organ VIII - The Womb (Future Incubation).md",
+    "The Is/Organ X - The Eye.md",
+    "The Is/Organ X - The Eye (Witness and Codex Keeper).md",
+    "The Is/Organ-Based Ritual Design.md",
+    "The Is/Organ-Based Variants.md",
+    "The Is/Organ-Driven Ritual Design.md",
+    "The Is/Planetary and Alchemical Glyphs.md",
+    "The Is/Prototype Rituals in the Field.md",
+    "The Is/Psychedelic Braid - Post-War Countercultures.md",
+    "The Is/ritual.md",
+    "The Is/Ritual Cards and Scroll Objects.md",
+    "The Is/ritual compiler.md",
+    "The Is/Ritual Design Engine.md",
+    "The Is/Ritual Design Engine (Interactive).md",
+    "The Is/Ritual Design Interface.md",
+    "The Is/Ritual Design Interface for Symbolic Sovereignty.md",
+    "The Is/Ritual Format Template.md",
+    "The Is/Ritual Matrix.md",
+    "The Is/Ritual patterns.md",
+    "The Is/Ritual Placement Index.md",
+    "The Is/Ritual Placement Index 1.md",
+    "The Is/Ritual Templates.md",
+    "The Is/Ritual Templates by Condition.md",
+    "The Is/Ritual-Myth Rewilding Protocols.md",
+    "The Is/Sacred User Interface.md",
+    "The Is/Semiotic Compass Generator.md",
+    "The Is/semiotic field tool.md",
+    "The Is/Semiotic Library.md",
+    "The Is/Semiotic Library - Primary Symbols.md",
+    "The Is/Semiotic Library – Primary Symbols.md",
+    "The Is/Sigil Creation and Technomantic Glyphs.md",
+    "The Is/spiritual operating system.md",
+    "The Is/Strategic Field Map.md",
+    "The Is/symbol.md",
+    "The Is/Symbol → Ritual → Outcome Directory.md",
+    "The Is/Symbol Activation Matrix.md",
+    "The Is/Symbolic Alphabets.md",
+    "The Is/Symbolic Diagrams & Mandalas.md",
+    "The Is/Symbolic Diagrams and Mandalas.md",
+    "The Is/Symbolic Drift Logs.md",
+    "The Is/Symbolic Drift Logs (Emergent Pattern Watch).md",
+    "The Is/Taoist-Celestial Logic Web.md",
+    "The Is/Technocratic and Mythic Sovereignty.md",
+    "The Is/Technocratic Synapse Cultures (Machine Braids).md",
+    "The Is/Technomantic Deployment.md",
+    "The Is/Template - Archetype Profile.md",
+    "The Is/Template - Ritual Entry.md",
+    "The Is/Template - Symbol Entry.md",
+    "The Is/Template · Archetype Profile.md",
+    "The Is/Temple.md",
+    "The Is/Temple Blueprints.md",
+    "The Is/Temple Blueprints (Physical & Digital).md",
+    "The Is/Temple Organs.md",
+    "The Is/Temple Organs (Anatomy of the Codex).md",
+    "The Is/The Architect.md",
+    "The Is/The Archive.md",
+    "The Is/The Archive Empire.md",
+    "The Is/The Carnival.md",
+    "The Is/The Cathedral.md",
+    "The Is/The Cathedral · Exosphere · Crypt Map.md",
+    "The Is/The Chemical Substrate.md",
+    "The Is/The Corporate Pantheon.md",
+    "The Is/The Crypt.md",
+    "The Is/The Eye.md",
+    "The Is/The Fool.md",
+    "The Is/The Forge.md",
+    "The Is/The Global Memory Lattice.md",
+    "The Is/The High Tower.md",
+    "The Is/The Hypercourt of the Algorithmic Gods.md",
+    "The Is/The Judge.md",
+    "The Is/The Kin-Keeper.md",
+    "The Is/The Labyrinth.md",
+    "The Is/The Liver.md",
+    "The Is/THE LIVING CODEX VOLUME ZERO.md",
+    "The Is/The Machine Empire.md",
+    "The Is/The Market Empire.md",
+    "The Is/The Martyr.md",
+    "The Is/The Monk.md",
+    "The Is/The Nomadic Horde.md",
+    "The Is/The Oracle.md",
+    "The Is/The Prophet.md",
+    "The Is/The Prophet Empire.md",
+    "The Is/The Ritual Oath of Entry.md",
+    "The Is/The Sacrificial Engine.md",
+    "The Is/The Seeker.md",
+    "The Is/The Sentinel.md",
+    "The Is/The Spine.md",
+    "The Is/The Spiral Grove.md",
+    "The Is/The Stomach.md",
+    "The Is/The Temple.md",
+    "The Is/The Temple Empire.md",
+    "The Is/The Throne.md",
+    "The Is/The Trickster.md",
+    "The Is/The Warrior.md",
+    "The Is/The Womb.md",
+    "The Is/The Wound.md",
+    "The Is/Trauma-Loop Encoding Patterns.md",
+    "The Is/Trauma‑Loop Encoding Patterns.md",
+    "The Is/Tri-Axial Compass.md",
+    "The Is/Trickster Cults.md",
+    "The Is/Unmapped Symbols – Awaiting Integration.md",
+    "The Is/Version Control · Module History.md",
+    "The Is/Version Control + Module History.md",
+    "The Is/Veve Glyph Systems.md",
+    "The Is/Veve Glyphs.md",
+    "The Is/Visual Sigil Repository.md",
+    "The Is/Volume Zero - Genesis Scroll.md",
+    "The Is/Volume Zero – Genesis Scroll.md",
+    "The Is/wikilink.md",
+    "The Is/Wikilinks.md",
+    "The Is/Zen.md",
+    "index.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg"
+  ],
+  "fileInfo": {
+    "Symbolic/Drift/Logs.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "Symbolic/Drift/Logs.html",
+      "dependencies": []
+    },
+    "The Is/activate.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/activate.html",
+      "dependencies": []
+    },
+    "The Is/Afro-Diasporic Cosmos.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5467,
+      "exportedPath": "The Is/Afro-Diasporic Cosmos.html",
+      "dependencies": []
+    },
+    "The Is/AI Sovereign Logic Trees.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/AI Sovereign Logic Trees.html",
+      "dependencies": []
+    },
+    "The Is/AI-Machine-Sigil Interface Notes.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5331,
+      "exportedPath": "The Is/AI-Machine-Sigil Interface Notes.html",
+      "dependencies": []
+    },
+    "The Is/Ancient Levantine Vortex.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5952,
+      "exportedPath": "The Is/Ancient Levantine Vortex.html",
+      "dependencies": []
+    },
+    "The Is/Biochemical Sovereignty Map.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 4807,
+      "exportedPath": "The Is/Biochemical Sovereignty Map.html",
+      "dependencies": []
+    },
+    "The Is/Brazilian Cauldron.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 6240,
+      "exportedPath": "The Is/Brazilian Cauldron.html",
+      "dependencies": []
+    },
+    "The Is/carriers of the Pattern.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/carriers of the Pattern.html",
+      "dependencies": []
+    },
+    "The Is/Cathedral-Exosphere-Crypt Map.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 7483,
+      "exportedPath": "The Is/Cathedral-Exosphere-Crypt Map.html",
+      "dependencies": []
+    },
+    "The Is/Chemical → Behavioral → Ritual Correlation Chart.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5202,
+      "exportedPath": "The Is/Chemical → Behavioral → Ritual Correlation Chart.html",
+      "dependencies": []
+    },
+    "The Is/Chemical to Ritual Chart.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 77,
+      "exportedPath": "The Is/Chemical to Ritual Chart.html",
+      "dependencies": []
+    },
+    "The Is/Civilizational Braid Profiles.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5275,
+      "exportedPath": "The Is/Civilizational Braid Profiles.html",
+      "dependencies": []
+    },
+    "The Is/Codex Contribution Notes.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5275,
+      "exportedPath": "The Is/Codex Contribution Notes.html",
+      "dependencies": []
+    },
+    "The Is/Codex Diaries and Channel Logs.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 4860,
+      "exportedPath": "The Is/Codex Diaries and Channel Logs.html",
+      "dependencies": []
+    },
+    "The Is/Codex Structure Overview.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 1325,
+      "exportedPath": "The Is/Codex Structure Overview.html",
+      "dependencies": []
+    },
+    "The Is/Codex Style Guide.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5602,
+      "exportedPath": "The Is/Codex Style Guide.html",
+      "dependencies": []
+    },
+    "The Is/Comparative Semiotic Grid (WIP).md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Comparative Semiotic Grid (WIP).html",
+      "dependencies": []
+    },
+    "The Is/compass.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/compass.html",
+      "dependencies": []
+    },
+    "The Is/Condition to Ritual Crosswalk.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Condition to Ritual Crosswalk.html",
+      "dependencies": []
+    },
+    "The Is/Condition-to-Ritual Crosswalk.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5688,
+      "exportedPath": "The Is/Condition-to-Ritual Crosswalk.html",
+      "dependencies": []
+    },
+    "The Is/Crypto-Court Empire.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Crypto-Court Empire.html",
+      "dependencies": []
+    },
+    "The Is/Dark Academia Cells.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Dark Academia Cells.html",
+      "dependencies": []
+    },
+    "The Is/Diaspora Memory Logic.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5588,
+      "exportedPath": "The Is/Diaspora Memory Logic.html",
+      "dependencies": []
+    },
+    "The Is/Dream Nodes.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Dream Nodes.html",
+      "dependencies": []
+    },
+    "The Is/Dreamwork Nodes.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Dreamwork Nodes.html",
+      "dependencies": []
+    },
+    "The Is/Eco-Mythic Decentralized Guild Empires.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Eco-Mythic Decentralized Guild Empires.html",
+      "dependencies": []
+    },
+    "The Is/Empire Models and Archetypes.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 7705,
+      "exportedPath": "The Is/Empire Models and Archetypes.html",
+      "dependencies": []
+    },
+    "The Is/Environmental-Civilizational Biochemistry.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 6382,
+      "exportedPath": "The Is/Environmental-Civilizational Biochemistry.html",
+      "dependencies": []
+    },
+    "The Is/Esoteric-Christian Rewilding Threads (Desert Monks to DIY Ritualists).md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Esoteric-Christian Rewilding Threads (Desert Monks to DIY Ritualists).html",
+      "dependencies": []
+    },
+    "The Is/Field Deployment Guidelines.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 6142,
+      "exportedPath": "The Is/Field Deployment Guidelines.html",
+      "dependencies": []
+    },
+    "The Is/First Glyph Mandala.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/First Glyph Mandala.html",
+      "dependencies": []
+    },
+    "The Is/First Glyph Mandala - Ritual Sigil of Genesis.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/First Glyph Mandala - Ritual Sigil of Genesis.html",
+      "dependencies": []
+    },
+    "The Is/fractal.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/fractal.html",
+      "dependencies": []
+    },
+    "The Is/Geopolitical echo-structures.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Geopolitical echo-structures.html",
+      "dependencies": []
+    },
+    "The Is/Ghost Empires & Civilizational Spirits.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Ghost Empires & Civilizational Spirits.html",
+      "dependencies": []
+    },
+    "The Is/Ghost Empires and Civilizational Spirits.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 6364,
+      "exportedPath": "The Is/Ghost Empires and Civilizational Spirits.html",
+      "dependencies": []
+    },
+    "The Is/Global Memory Lattice.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5823,
+      "exportedPath": "The Is/Global Memory Lattice.html",
+      "dependencies": []
+    },
+    "The Is/Glyph Scrolls.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Glyph Scrolls.html",
+      "dependencies": []
+    },
+    "The Is/Glyph Scrolls (Encrypted or Poetic Forms).md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5774,
+      "exportedPath": "The Is/Glyph Scrolls (Encrypted or Poetic Forms).html",
+      "dependencies": []
+    },
+    "The Is/Glyph Systems (Runes, Veve, Sanskrit, Tifinagh, etc).md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 6611,
+      "exportedPath": "The Is/Glyph Systems (Runes, Veve, Sanskrit, Tifinagh, etc).html",
+      "dependencies": []
+    },
+    "The Is/Index - 0.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5335,
+      "exportedPath": "The Is/Index - 0.html",
+      "dependencies": []
+    },
+    "The Is/Indigenous Time-Spiral Cosmogonies (Americas).md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Indigenous Time-Spiral Cosmogonies (Americas).html",
+      "dependencies": []
+    },
+    "The Is/Initiatory Sequences and Threshold States.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 6463,
+      "exportedPath": "The Is/Initiatory Sequences and Threshold States.html",
+      "dependencies": []
+    },
+    "The Is/Jewish Cosmos.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 10756,
+      "exportedPath": "The Is/Jewish Cosmos.html",
+      "dependencies": []
+    },
+    "The Is/Linkage Protocols and Symbol Syntax.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5716,
+      "exportedPath": "The Is/Linkage Protocols and Symbol Syntax.html",
+      "dependencies": []
+    },
+    "The Is/Living Codex.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Living Codex.html",
+      "dependencies": []
+    },
+    "The Is/Living Sigil Field (Active Symbol Map).md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5500,
+      "exportedPath": "The Is/Living Sigil Field (Active Symbol Map).html",
+      "dependencies": []
+    },
+    "The Is/map.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/map.html",
+      "dependencies": []
+    },
+    "The Is/Map of Engagement Zones.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 6158,
+      "exportedPath": "The Is/Map of Engagement Zones.html",
+      "dependencies": []
+    },
+    "The Is/Memetic Fracture Zones.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5715,
+      "exportedPath": "The Is/Memetic Fracture Zones.html",
+      "dependencies": []
+    },
+    "The Is/Memetic Fracture Zones (2025 Edition).md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Memetic Fracture Zones (2025 Edition).html",
+      "dependencies": []
+    },
+    "The Is/Myth as Weapon.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Myth as Weapon.html",
+      "dependencies": []
+    },
+    "The Is/Myth as Weapon and Salvation.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 6168,
+      "exportedPath": "The Is/Myth as Weapon and Salvation.html",
+      "dependencies": []
+    },
+    "The Is/myth-engine.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/myth-engine.html",
+      "dependencies": []
+    },
+    "The Is/Mythic - Memetic Engine.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5022,
+      "exportedPath": "The Is/Mythic - Memetic Engine.html",
+      "dependencies": []
+    },
+    "The Is/Mythic Agriculture Engine.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 10643,
+      "exportedPath": "The Is/Mythic Agriculture Engine.html",
+      "dependencies": []
+    },
+    "The Is/Mythic cosmogonies.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Mythic cosmogonies.html",
+      "dependencies": []
+    },
+    "The Is/Neurochemical Archetypes.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 10874,
+      "exportedPath": "The Is/Neurochemical Archetypes.html",
+      "dependencies": []
+    },
+    "The Is/New Archetypes or Braid Entries.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/New Archetypes or Braid Entries.html",
+      "dependencies": []
+    },
+    "The Is/node.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/node.html",
+      "dependencies": []
+    },
+    "The Is/Nomadic Mindstreams of the Steppe.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Nomadic Mindstreams of the Steppe.html",
+      "dependencies": []
+    },
+    "The Is/Nomads Drifters and Chaos Agents.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5624,
+      "exportedPath": "The Is/Nomads Drifters and Chaos Agents.html",
+      "dependencies": []
+    },
+    "The Is/Organ I - The Heart.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Organ I - The Heart.html",
+      "dependencies": []
+    },
+    "The Is/Organ I - The Heart (Ritual Pulse).md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5372,
+      "exportedPath": "The Is/Organ I - The Heart (Ritual Pulse).html",
+      "dependencies": []
+    },
+    "The Is/Organ II - The Lungs.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 4959,
+      "exportedPath": "The Is/Organ II - The Lungs.html",
+      "dependencies": []
+    },
+    "The Is/Organ II - The Lungs (Language & Song).md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 4959,
+      "exportedPath": "The Is/Organ II - The Lungs (Language & Song).html",
+      "dependencies": []
+    },
+    "The Is/Organ III - The Brain.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Organ III - The Brain.html",
+      "dependencies": []
+    },
+    "The Is/Organ III - The Brain (Strategic Sight).md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5159,
+      "exportedPath": "The Is/Organ III - The Brain (Strategic Sight).html",
+      "dependencies": []
+    },
+    "The Is/Organ IV - The Liver.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Organ IV - The Liver.html",
+      "dependencies": []
+    },
+    "The Is/Organ IV - The Liver (Alchemy of Suffering).md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5208,
+      "exportedPath": "The Is/Organ IV - The Liver (Alchemy of Suffering).html",
+      "dependencies": []
+    },
+    "The Is/Organ IX - The Tongue.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Organ IX - The Tongue.html",
+      "dependencies": []
+    },
+    "The Is/Organ IX - The Tongue (Trickster Checks).md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5315,
+      "exportedPath": "The Is/Organ IX - The Tongue (Trickster Checks).html",
+      "dependencies": []
+    },
+    "The Is/Organ V - The Stomach.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Organ V - The Stomach.html",
+      "dependencies": []
+    },
+    "The Is/Organ V - The Stomach (Memory as Food).md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5403,
+      "exportedPath": "The Is/Organ V - The Stomach (Memory as Food).html",
+      "dependencies": []
+    },
+    "The Is/Organ VI - The Spine.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Organ VI - The Spine.html",
+      "dependencies": []
+    },
+    "The Is/Organ VI - The Spine (Rites of Action).md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5128,
+      "exportedPath": "The Is/Organ VI - The Spine (Rites of Action).html",
+      "dependencies": []
+    },
+    "The Is/Organ VII - The Skin.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Organ VII - The Skin.html",
+      "dependencies": []
+    },
+    "The Is/Organ VII - The Skin (Symbolic Shield).md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5861,
+      "exportedPath": "The Is/Organ VII - The Skin (Symbolic Shield).html",
+      "dependencies": []
+    },
+    "The Is/Organ VIII - The Womb.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Organ VIII - The Womb.html",
+      "dependencies": []
+    },
+    "The Is/Organ VIII - The Womb (Future Incubation).md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5161,
+      "exportedPath": "The Is/Organ VIII - The Womb (Future Incubation).html",
+      "dependencies": []
+    },
+    "The Is/Organ X - The Eye.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Organ X - The Eye.html",
+      "dependencies": []
+    },
+    "The Is/Organ X - The Eye (Witness and Codex Keeper).md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5403,
+      "exportedPath": "The Is/Organ X - The Eye (Witness and Codex Keeper).html",
+      "dependencies": []
+    },
+    "The Is/Organ-Based Ritual Design.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Organ-Based Ritual Design.html",
+      "dependencies": []
+    },
+    "The Is/Organ-Based Variants.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Organ-Based Variants.html",
+      "dependencies": []
+    },
+    "The Is/Organ-Driven Ritual Design.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Organ-Driven Ritual Design.html",
+      "dependencies": []
+    },
+    "The Is/Planetary and Alchemical Glyphs.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 7307,
+      "exportedPath": "The Is/Planetary and Alchemical Glyphs.html",
+      "dependencies": []
+    },
+    "The Is/Prototype Rituals in the Field.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 4665,
+      "exportedPath": "The Is/Prototype Rituals in the Field.html",
+      "dependencies": []
+    },
+    "The Is/Psychedelic Braid - Post-War Countercultures.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Psychedelic Braid - Post-War Countercultures.html",
+      "dependencies": []
+    },
+    "The Is/ritual.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/ritual.html",
+      "dependencies": []
+    },
+    "The Is/Ritual Cards and Scroll Objects.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5934,
+      "exportedPath": "The Is/Ritual Cards and Scroll Objects.html",
+      "dependencies": []
+    },
+    "The Is/ritual compiler.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/ritual compiler.html",
+      "dependencies": []
+    },
+    "The Is/Ritual Design Engine.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Ritual Design Engine.html",
+      "dependencies": []
+    },
+    "The Is/Ritual Design Engine (Interactive).md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 8289,
+      "exportedPath": "The Is/Ritual Design Engine (Interactive).html",
+      "dependencies": []
+    },
+    "The Is/Ritual Design Interface.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Ritual Design Interface.html",
+      "dependencies": []
+    },
+    "The Is/Ritual Design Interface for Symbolic Sovereignty.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Ritual Design Interface for Symbolic Sovereignty.html",
+      "dependencies": []
+    },
+    "The Is/Ritual Format Template.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 4904,
+      "exportedPath": "The Is/Ritual Format Template.html",
+      "dependencies": []
+    },
+    "The Is/Ritual Matrix.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5642,
+      "exportedPath": "The Is/Ritual Matrix.html",
+      "dependencies": []
+    },
+    "The Is/Ritual patterns.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Ritual patterns.html",
+      "dependencies": []
+    },
+    "The Is/Ritual Placement Index.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5151,
+      "exportedPath": "The Is/Ritual Placement Index.html",
+      "dependencies": []
+    },
+    "The Is/Ritual Placement Index 1.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5006,
+      "exportedPath": "The Is/Ritual Placement Index 1.html",
+      "dependencies": []
+    },
+    "The Is/Ritual Templates.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5879,
+      "exportedPath": "The Is/Ritual Templates.html",
+      "dependencies": []
+    },
+    "The Is/Ritual Templates by Condition.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Ritual Templates by Condition.html",
+      "dependencies": []
+    },
+    "The Is/Ritual-Myth Rewilding Protocols.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5712,
+      "exportedPath": "The Is/Ritual-Myth Rewilding Protocols.html",
+      "dependencies": []
+    },
+    "The Is/Sacred User Interface.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5400,
+      "exportedPath": "The Is/Sacred User Interface.html",
+      "dependencies": []
+    },
+    "The Is/Semiotic Compass Generator.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 4811,
+      "exportedPath": "The Is/Semiotic Compass Generator.html",
+      "dependencies": []
+    },
+    "The Is/semiotic field tool.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/semiotic field tool.html",
+      "dependencies": []
+    },
+    "The Is/Semiotic Library.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Semiotic Library.html",
+      "dependencies": []
+    },
+    "The Is/Semiotic Library - Primary Symbols.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5241,
+      "exportedPath": "The Is/Semiotic Library - Primary Symbols.html",
+      "dependencies": []
+    },
+    "The Is/Semiotic Library – Primary Symbols.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Semiotic Library – Primary Symbols.html",
+      "dependencies": []
+    },
+    "The Is/Sigil Creation and Technomantic Glyphs.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 7561,
+      "exportedPath": "The Is/Sigil Creation and Technomantic Glyphs.html",
+      "dependencies": []
+    },
+    "The Is/spiritual operating system.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/spiritual operating system.html",
+      "dependencies": []
+    },
+    "The Is/Strategic Field Map.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 6806,
+      "exportedPath": "The Is/Strategic Field Map.html",
+      "dependencies": []
+    },
+    "The Is/symbol.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/symbol.html",
+      "dependencies": []
+    },
+    "The Is/Symbol → Ritual → Outcome Directory.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 6319,
+      "exportedPath": "The Is/Symbol → Ritual → Outcome Directory.html",
+      "dependencies": []
+    },
+    "The Is/Symbol Activation Matrix.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5562,
+      "exportedPath": "The Is/Symbol Activation Matrix.html",
+      "dependencies": []
+    },
+    "The Is/Symbolic Alphabets.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Symbolic Alphabets.html",
+      "dependencies": []
+    },
+    "The Is/Symbolic Diagrams & Mandalas.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 55,
+      "exportedPath": "The Is/Symbolic Diagrams & Mandalas.html",
+      "dependencies": []
+    },
+    "The Is/Symbolic Diagrams and Mandalas.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5333,
+      "exportedPath": "The Is/Symbolic Diagrams and Mandalas.html",
+      "dependencies": []
+    },
+    "The Is/Symbolic Drift Logs.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5620,
+      "exportedPath": "The Is/Symbolic Drift Logs.html",
+      "dependencies": []
+    },
+    "The Is/Symbolic Drift Logs (Emergent Pattern Watch).md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5200,
+      "exportedPath": "The Is/Symbolic Drift Logs (Emergent Pattern Watch).html",
+      "dependencies": []
+    },
+    "The Is/Taoist-Celestial Logic Web.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Taoist-Celestial Logic Web.html",
+      "dependencies": []
+    },
+    "The Is/Technocratic and Mythic Sovereignty.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 6211,
+      "exportedPath": "The Is/Technocratic and Mythic Sovereignty.html",
+      "dependencies": []
+    },
+    "The Is/Technocratic Synapse Cultures (Machine Braids).md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Technocratic Synapse Cultures (Machine Braids).html",
+      "dependencies": []
+    },
+    "The Is/Technomantic Deployment.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Technomantic Deployment.html",
+      "dependencies": []
+    },
+    "The Is/Template - Archetype Profile.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 3776,
+      "exportedPath": "The Is/Template - Archetype Profile.html",
+      "dependencies": []
+    },
+    "The Is/Template - Ritual Entry.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 3628,
+      "exportedPath": "The Is/Template - Ritual Entry.html",
+      "dependencies": []
+    },
+    "The Is/Template - Symbol Entry.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 3418,
+      "exportedPath": "The Is/Template - Symbol Entry.html",
+      "dependencies": []
+    },
+    "The Is/Template · Archetype Profile.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 36,
+      "exportedPath": "The Is/Template · Archetype Profile.html",
+      "dependencies": []
+    },
+    "The Is/Temple.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Temple.html",
+      "dependencies": []
+    },
+    "The Is/Temple Blueprints.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Temple Blueprints.html",
+      "dependencies": []
+    },
+    "The Is/Temple Blueprints (Physical & Digital).md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5405,
+      "exportedPath": "The Is/Temple Blueprints (Physical & Digital).html",
+      "dependencies": []
+    },
+    "The Is/Temple Organs.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 4699,
+      "exportedPath": "The Is/Temple Organs.html",
+      "dependencies": []
+    },
+    "The Is/Temple Organs (Anatomy of the Codex).md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5649,
+      "exportedPath": "The Is/Temple Organs (Anatomy of the Codex).html",
+      "dependencies": []
+    },
+    "The Is/The Architect.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Architect.html",
+      "dependencies": []
+    },
+    "The Is/The Archive.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Archive.html",
+      "dependencies": []
+    },
+    "The Is/The Archive Empire.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Archive Empire.html",
+      "dependencies": []
+    },
+    "The Is/The Carnival.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Carnival.html",
+      "dependencies": []
+    },
+    "The Is/The Cathedral.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Cathedral.html",
+      "dependencies": []
+    },
+    "The Is/The Cathedral · Exosphere · Crypt Map.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Cathedral · Exosphere · Crypt Map.html",
+      "dependencies": []
+    },
+    "The Is/The Chemical Substrate.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Chemical Substrate.html",
+      "dependencies": []
+    },
+    "The Is/The Corporate Pantheon.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Corporate Pantheon.html",
+      "dependencies": []
+    },
+    "The Is/The Crypt.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Crypt.html",
+      "dependencies": []
+    },
+    "The Is/The Eye.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Eye.html",
+      "dependencies": []
+    },
+    "The Is/The Fool.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Fool.html",
+      "dependencies": []
+    },
+    "The Is/The Forge.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Forge.html",
+      "dependencies": []
+    },
+    "The Is/The Global Memory Lattice.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Global Memory Lattice.html",
+      "dependencies": []
+    },
+    "The Is/The High Tower.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 4309,
+      "exportedPath": "The Is/The High Tower.html",
+      "dependencies": []
+    },
+    "The Is/The Hypercourt of the Algorithmic Gods.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Hypercourt of the Algorithmic Gods.html",
+      "dependencies": []
+    },
+    "The Is/The Judge.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Judge.html",
+      "dependencies": []
+    },
+    "The Is/The Kin-Keeper.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Kin-Keeper.html",
+      "dependencies": []
+    },
+    "The Is/The Labyrinth.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Labyrinth.html",
+      "dependencies": []
+    },
+    "The Is/The Liver.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Liver.html",
+      "dependencies": []
+    },
+    "The Is/THE LIVING CODEX VOLUME ZERO.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 4724,
+      "exportedPath": "The Is/THE LIVING CODEX VOLUME ZERO.html",
+      "dependencies": []
+    },
+    "The Is/The Machine Empire.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Machine Empire.html",
+      "dependencies": []
+    },
+    "The Is/The Market Empire.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Market Empire.html",
+      "dependencies": []
+    },
+    "The Is/The Martyr.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Martyr.html",
+      "dependencies": []
+    },
+    "The Is/The Monk.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Monk.html",
+      "dependencies": []
+    },
+    "The Is/The Nomadic Horde.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Nomadic Horde.html",
+      "dependencies": []
+    },
+    "The Is/The Oracle.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Oracle.html",
+      "dependencies": []
+    },
+    "The Is/The Prophet.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Prophet.html",
+      "dependencies": []
+    },
+    "The Is/The Prophet Empire.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Prophet Empire.html",
+      "dependencies": []
+    },
+    "The Is/The Ritual Oath of Entry.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Ritual Oath of Entry.html",
+      "dependencies": []
+    },
+    "The Is/The Sacrificial Engine.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Sacrificial Engine.html",
+      "dependencies": []
+    },
+    "The Is/The Seeker.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Seeker.html",
+      "dependencies": []
+    },
+    "The Is/The Sentinel.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Sentinel.html",
+      "dependencies": []
+    },
+    "The Is/The Spine.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Spine.html",
+      "dependencies": []
+    },
+    "The Is/The Spiral Grove.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Spiral Grove.html",
+      "dependencies": []
+    },
+    "The Is/The Stomach.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Stomach.html",
+      "dependencies": []
+    },
+    "The Is/The Temple.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Temple.html",
+      "dependencies": []
+    },
+    "The Is/The Temple Empire.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Temple Empire.html",
+      "dependencies": []
+    },
+    "The Is/The Throne.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Throne.html",
+      "dependencies": []
+    },
+    "The Is/The Trickster.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Trickster.html",
+      "dependencies": []
+    },
+    "The Is/The Warrior.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Warrior.html",
+      "dependencies": []
+    },
+    "The Is/The Womb.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/The Womb.html",
+      "dependencies": []
+    },
+    "The Is/The Wound.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 4582,
+      "exportedPath": "The Is/The Wound.html",
+      "dependencies": []
+    },
+    "The Is/Trauma-Loop Encoding Patterns.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 5778,
+      "exportedPath": "The Is/Trauma-Loop Encoding Patterns.html",
+      "dependencies": []
+    },
+    "The Is/Trauma‑Loop Encoding Patterns.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Trauma‑Loop Encoding Patterns.html",
+      "dependencies": []
+    },
+    "The Is/Tri-Axial Compass.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 2826,
+      "exportedPath": "The Is/Tri-Axial Compass.html",
+      "dependencies": []
+    },
+    "The Is/Trickster Cults.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Trickster Cults.html",
+      "dependencies": []
+    },
+    "The Is/Unmapped Symbols – Awaiting Integration.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 6508,
+      "exportedPath": "The Is/Unmapped Symbols – Awaiting Integration.html",
+      "dependencies": []
+    },
+    "The Is/Version Control · Module History.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Version Control · Module History.html",
+      "dependencies": []
+    },
+    "The Is/Version Control + Module History.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 4759,
+      "exportedPath": "The Is/Version Control + Module History.html",
+      "dependencies": []
+    },
+    "The Is/Veve Glyph Systems.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Veve Glyph Systems.html",
+      "dependencies": []
+    },
+    "The Is/Veve Glyphs.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Veve Glyphs.html",
+      "dependencies": []
+    },
+    "The Is/Visual Sigil Repository.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 6011,
+      "exportedPath": "The Is/Visual Sigil Repository.html",
+      "dependencies": []
+    },
+    "The Is/Volume Zero - Genesis Scroll.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 6288,
+      "exportedPath": "The Is/Volume Zero - Genesis Scroll.html",
+      "dependencies": []
+    },
+    "The Is/Volume Zero – Genesis Scroll.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 6288,
+      "exportedPath": "The Is/Volume Zero – Genesis Scroll.html",
+      "dependencies": []
+    },
+    "The Is/wikilink.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/wikilink.html",
+      "dependencies": []
+    },
+    "The Is/Wikilinks.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 4995,
+      "exportedPath": "The Is/Wikilinks.html",
+      "dependencies": []
+    },
+    "The Is/Zen.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 0,
+      "exportedPath": "The Is/Zen.html",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 2419,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1745213791052,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    }
+  }
+}
